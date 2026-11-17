@@ -1,0 +1,12 @@
+{
+  "name": "Kibatto Development Foundation Limited (KDF UGANDA)",
+  "description": "Official humanitarian, community development, applicant registration, AI customer service, and global partner operations platform for Kibatto Development Foundation Limited (KDF Uganda), Mityana District, Uganda.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

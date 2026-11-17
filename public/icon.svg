@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#14532D"/>
+  <circle cx="256" cy="256" r="184" fill="none" stroke="#D9B978" stroke-width="10" opacity="0.85"/>
+  <path d="M256 120c-38 46-72 90-72 138 0 42 32 74 72 74s72-32 72-74c0-48-34-92-72-138z" fill="#FBF9F5" opacity="0.95"/>
+  <path d="M168 352c26-24 56-36 88-36s62 12 88 36" fill="none" stroke="#D9B978" stroke-width="16" stroke-linecap="round"/>
+  <text x="256" y="420" text-anchor="middle" font-family="Georgia, serif" font-weight="700" font-size="44" fill="#FBF9F5" letter-spacing="4">KDF</text>
+</svg>
